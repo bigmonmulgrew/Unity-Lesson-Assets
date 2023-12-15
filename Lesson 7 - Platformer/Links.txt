@@ -1,0 +1,7 @@
+## Character controllers
+Unity Starter Assets - https://assetstore.unity.com/packages/essentials/starter-assets-character-controllers-urp-267961
+Low poly human 		- https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/free-low-poly-human-rpg-character-219979
+Low Poly universal 	- https://assetstore.unity.com/packages/3d/characters/lowpoly-universal-character-modular-199781
+
+## Platforms
+Platform tiles polypack - https://assetstore.unity.com/packages/3d/environments/platform-tiles-polypack-209922
